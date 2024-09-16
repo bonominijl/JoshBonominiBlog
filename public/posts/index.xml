@@ -8,6 +8,27 @@
     <language>en</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>1U rack mount switch and Rpis</title>
+      <link>//localhost:1313/posts/1u-rack-mount-switch-and-rpis/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/1u-rack-mount-switch-and-rpis/</guid>
+      <description>&lt;p&gt;A 1U rack mount model for the Ubiquiti 8-port POE router and up to 2 raspberry pi 4s.&lt;/p&gt;
+&lt;p&gt;The piece is printed in two halves and slides together with a somewhat odd dovetaiol design.&lt;/p&gt;
+&lt;p&gt;Future revisions will improve the stability of the cage housing the POE switch. It&amp;rsquo;s very flimsy as is but does gain some rigidity once the swiuth is mounted. I printed this using standard PLA filament and so far thermals have not been an issue and no deformation has been observed after several months of use.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A 1U rack mount model for the Ubiquiti 8-port POE router and up to 2 raspberry pi 4s.</p>
+<p>The piece is printed in two halves and slides together with a somewhat odd dovetaiol design.</p>
+<p>Future revisions will improve the stability of the cage housing the POE switch. It&rsquo;s very flimsy as is but does gain some rigidity once the swiuth is mounted. I printed this using standard PLA filament and so far thermals have not been an issue and no deformation has been observed after several months of use.</p>
+<p>
+  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1U%20rack%20multi%20view.png?raw=true" alt="1U rack render"  /></p>
+<p>Model download available here: <a href="url">1U rack model</a></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Reference Track Playlist</title>
       <link>//localhost:1313/posts/reference-audio/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -60,8 +81,13 @@ This track is great for visualizing where different sounds and insturments are c
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/posts/retro-mouse/</guid>
-      <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Hi!</p>
+      <description>&lt;p&gt;I&amp;rsquo;m a big fan of vertical mice. I find it far more comfortable for longer sessions designing, and I&amp;rsquo;ve even become accustomed to it while gaming. I&amp;rsquo;m no FPS pro but I can still get through my favoritre single player games just fine.&lt;/p&gt;
+&lt;p&gt;I decided to combine my love for mechncail keybaords, retro tech, and vertical mice int one package. Thus my idea for the retro vertical mouse was born. The idea is pretty simple, find inspiration from the beige, clunky technology of my childhood, add in hotswap mechanical switches, and make it vertical.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I&rsquo;m a big fan of vertical mice. I find it far more comfortable for longer sessions designing, and I&rsquo;ve even become accustomed to it while gaming. I&rsquo;m no FPS pro but I can still get through my favoritre single player games just fine.</p>
+<p>I decided to combine my love for mechncail keybaords, retro tech, and vertical mice int one package. Thus my idea for the retro vertical mouse was born. The idea is pretty simple, find inspiration from the beige, clunky technology of my childhood, add in hotswap mechanical switches, and make it vertical.</p>
+<p>So far I still only have part of the design, but it&rsquo;s starting to come together.</p>
+<p>
+  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/retro%20mouse%20multi%20view.png?raw=true" alt="retro mouse render"  /></p>
 ]]></content:encoded>
     </item>
     
@@ -77,8 +103,11 @@ This track is great for visualizing where different sounds and insturments are c
 <p>I got into small form factor PCs as, what felt to me at the time as a natural progression of my love for PC building. I soon realized it adds yet another layer of complexity to the build process. It&rsquo;s also really fun trying to figure out the best way to cable manage in tight spaces, picking the exact right GPU that will acutally fit, and finally acecpting that thermals will almsot always suck.</p>
 <p>I&rsquo;ve tried a few different cases, from the Cougar to the Louque S1. They&rsquo;re all fine in their own right, but I wanted to tack it a step further an design a case myself.</p>
 <p>
-  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/d3a2067930a2728691eab33af65cf382f9264e5c/static/walnut%20tower%20pc%20render.png" alt="walnut-tower-pc-render"  /></p>
-<p></p>
+  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/d3a2067930a2728691eab33af65cf382f9264e5c/static/walnut%20tower%20pc%20render.png?raw=true" alt="walnut-tower-pc-render"  />
+My initial vision for this case is layers of CNC&rsquo;d walnut, held in place with brass rods running the full length on the case. This would allow for sufficient airflow throughout the case, while adding a somewhat midcentury modern vibe to the asthetic.</p>
+<p>I began looking at existing SFFPC designs and came across the EC1 (Edge case) from the reddit user u/NiceDepth. My design essentially forks theirs, making some structural changes such as using extruded T-bar aluminum more throughout the case such as on each of the 4 corners.</p>
+<p>
+  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/multi%20view.png?raw=true" alt="multi port view"  /></p>
 ]]></content:encoded>
     </item>
     
@@ -90,6 +119,10 @@ This track is great for visualizing where different sounds and insturments are c
       <guid>//localhost:1313/posts/sample/</guid>
       <description>Desc Text.</description>
       <content:encoded><![CDATA[<p>Sample Post!</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 ]]></content:encoded>
     </item>
     

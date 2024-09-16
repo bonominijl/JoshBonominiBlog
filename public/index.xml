@@ -8,6 +8,27 @@
     <language>en</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>1U rack mount switch and Rpis</title>
+      <link>//localhost:1313/posts/1u-rack-mount-switch-and-rpis/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/1u-rack-mount-switch-and-rpis/</guid>
+      <description>&lt;p&gt;A 1U rack mount model for the Ubiquiti 8-port POE router and up to 2 raspberry pi 4s.&lt;/p&gt;
+&lt;p&gt;The piece is printed in two halves and slides together with a somewhat odd dovetaiol design.&lt;/p&gt;
+&lt;p&gt;Future revisions will improve the stability of the cage housing the POE switch. It&amp;rsquo;s very flimsy as is but does gain some rigidity once the swiuth is mounted. I printed this using standard PLA filament and so far thermals have not been an issue and no deformation has been observed after several months of use.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A 1U rack mount model for the Ubiquiti 8-port POE router and up to 2 raspberry pi 4s.</p>
+<p>The piece is printed in two halves and slides together with a somewhat odd dovetaiol design.</p>
+<p>Future revisions will improve the stability of the cage housing the POE switch. It&rsquo;s very flimsy as is but does gain some rigidity once the swiuth is mounted. I printed this using standard PLA filament and so far thermals have not been an issue and no deformation has been observed after several months of use.</p>
+<p>
+  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1U%20rack%20multi%20view.png?raw=true" alt="1U rack render"  /></p>
+<p>Model download available here: <a href="url">1U rack model</a></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Reference Track Playlist</title>
       <link>//localhost:1313/posts/reference-audio/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
