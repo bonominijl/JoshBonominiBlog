@@ -15,13 +15,15 @@
       <guid>//localhost:1313/posts/1u-rack-mount-switch-and-rpis/</guid>
       <description>&lt;p&gt;When your best friend needs a custom 1U rack enclosure for their Ubiquiti 8-port POE switch and raspberry pis, they get a custom enclosure.&lt;/p&gt;
 &lt;p&gt;
-  &lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1u%20installed.png?raw=true&#34; alt=&#34;1U rack installed&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;The piece is printed in two halves and slides together with a somewhat odd dovetaiol design.&lt;/p&gt;
+  &lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1u%20installed.png?raw=true&#34; alt=&#34;1U rack installed&#34;  /&gt;
+Here is the final piece installed in the wall mounted rack. Eventually the Rpis will be used for lab testing and perhaps some home automation workloads.&lt;/p&gt;
+&lt;p&gt;The piece is printed in two halves and slides together with a somewhat odd dovetail design.&lt;/p&gt;
 &lt;p&gt;Future revisions will improve the stability of the cage housing the POE switch. It&amp;rsquo;s very flimsy as is but does gain some rigidity once the swiuth is mounted. I printed this using standard PLA filament and so far thermals have not been an issue and no deformation has been observed after several months of use.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>When your best friend needs a custom 1U rack enclosure for their Ubiquiti 8-port POE switch and raspberry pis, they get a custom enclosure.</p>
 <p>
-  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1u%20installed.png?raw=true" alt="1U rack installed"  /></p>
-<p>The piece is printed in two halves and slides together with a somewhat odd dovetaiol design.</p>
+  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1u%20installed.png?raw=true" alt="1U rack installed"  />
+Here is the final piece installed in the wall mounted rack. Eventually the Rpis will be used for lab testing and perhaps some home automation workloads.</p>
+<p>The piece is printed in two halves and slides together with a somewhat odd dovetail design.</p>
 <p>Future revisions will improve the stability of the cage housing the POE switch. It&rsquo;s very flimsy as is but does gain some rigidity once the swiuth is mounted. I printed this using standard PLA filament and so far thermals have not been an issue and no deformation has been observed after several months of use.</p>
 <p>
   <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1U%20rack%20multi%20view.png?raw=true" alt="1U rack render"  /></p>
