@@ -16,5 +16,5 @@ My initial vision for this case is layers of CNC'd walnut, held in place with br
 I began looking at existing SFFPC designs and came across the EC1 (Edge case) from the reddit user u/NiceDepth. My design essentially forks theirs, making some structural changes such as using extruded T-bar aluminum more throughout the case such as on each of the 4 corners.
 
 
-
+![multi port view](https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/multi%20view.png?raw=true)
 
