@@ -6,9 +6,9 @@ date: 2020-09-15
 tags: ["first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
