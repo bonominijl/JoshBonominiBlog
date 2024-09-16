@@ -6,7 +6,7 @@ ShowToc: true
 ---
 When your best friend needs a custom 1U rack enclosure for their Ubiquiti 8-port POE switch and raspberry pis, they get a custom enclosure.
 
-![1U rack installed](https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1U%20rack%20installed.jpg?raw=true)
+![1U rack installed](https://github.com/bonominijl/JoshBonominiBlog/blob/main/static/1u%20installed.png?raw=true)
 
 The piece is printed in two halves and slides together with a somewhat odd dovetaiol design. 
 
