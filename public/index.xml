@@ -1,54 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
+    <title>Josh Bonomini&#39;s Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on ExampleSite</description>
-    <image>
-      <title>ExampleSite</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.134.2</generator>
+    <description>Recent content on Josh Bonomini&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reference Track Playlist</title>
       <link>http://localhost:1313/posts/reference-audio/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/reference-audio/</guid>
       <description>&lt;p&gt;A collection of songs I use when testing new headphones or audio equipment.
 This playlist has been curated over the years and has been influenced by the likes of:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;DankPods&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Tracks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;Scarlet Fire - Otis McDonald
-A Night Alone - Bobbing, Maddie Jay
-Walk Through the Park - TrackTribe
-Back in Town - Silent Partner&lt;/p&gt;</description>
+I really enjoy the bass response on this track. The bass is prominent and is useful in evaluating how clear the bass sounds without overpowering other elements.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Night Alone - Bobbing, Maddie Jay
+This track is great for evaluating the mids and highs. The vocals are clear and distinct, and the music is subtle enough to not overpower the headphones but present enough to evaluate the mids and highs.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>A collection of songs I use when testing new headphones or audio equipment.
+This playlist has been curated over the years and has been influenced by the likes of:</p>
+<ul>
+<li>DankPods</li>
+</ul>
+<p>Tracks:</p>
+<ul>
+<li>
+<p>Scarlet Fire - Otis McDonald
+I really enjoy the bass response on this track. The bass is prominent and is useful in evaluating how clear the bass sounds without overpowering other elements.</p>
+</li>
+<li>
+<p>A Night Alone - Bobbing, Maddie Jay
+This track is great for evaluating the mids and highs. The vocals are clear and distinct, and the music is subtle enough to not overpower the headphones but present enough to evaluate the mids and highs.</p>
+</li>
+<li>
+<p>Walk Through the Park - TrackTribe
+This track is great for visualizing where different sounds and insturments are coming from.</p>
+</li>
+<li>
+<p>Back in Town - Silent Partner</p>
+</li>
+</ul>
+<p>This track has a lot of small background details that are great for evaluating how well the headphones can pick up on subtle details in the music.</p>
+]]></content:encoded>
     </item>
+    
     <item>
       <title>Retro Gaming Mouse</title>
       <link>http://localhost:1313/posts/retro-mouse/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/retro-mouse/</guid>
       <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Hi!</p>
+]]></content:encoded>
     </item>
+    
     <item>
       <title>Tower PC</title>
       <link>http://localhost:1313/posts/tower-pc/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/tower-pc/</guid>
-      <description>&lt;p&gt;Tower PC design log&lt;/p&gt;
+      <description>&lt;p&gt;Tower PC design log..&lt;/p&gt;
 &lt;p&gt;I got into small form factor PCs as, what felt to me at the time as a natural progression of my love for PC building. I soon realized it adds yet another layer of complexity to the build process. It&amp;rsquo;s also really fun trying to figure out the best way to cable manage in tight spaces, picking the exact right GPU that will acutally fit, and finally acecpting that thermals will almsot always suck.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Tower PC design log..</p>
+<p>I got into small form factor PCs as, what felt to me at the time as a natural progression of my love for PC building. I soon realized it adds yet another layer of complexity to the build process. It&rsquo;s also really fun trying to figure out the best way to cable manage in tight spaces, picking the exact right GPU that will acutally fit, and finally acecpting that thermals will almsot always suck.</p>
+<p>I&rsquo;ve tried a few different cases, from the Cougar to the Louque S1. They&rsquo;re all fine in their own right, but I wanted to tack it a step further an design a case myself.</p>
+<p>
+</p>
+]]></content:encoded>
     </item>
+    
     <item>
       <title>My 1st post</title>
       <link>http://localhost:1313/posts/sample/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/sample/</guid>
       <description>Desc Text.</description>
+      <content:encoded><![CDATA[<p>Sample Post!</p>
+]]></content:encoded>
     </item>
+    
   </channel>
 </rss>
