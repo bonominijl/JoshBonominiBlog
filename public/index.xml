@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Josh Bonomini&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Josh Bonomini&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reference Track Playlist</title>
-      <link>http://localhost:1313/posts/reference-audio/</link>
+      <link>//localhost:1313/posts/reference-audio/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/reference-audio/</guid>
+      <guid>//localhost:1313/posts/reference-audio/</guid>
       <description>&lt;p&gt;A collection of songs I use when testing new headphones or audio equipment.
 This playlist has been curated over the years and has been influenced by the likes of:&lt;/p&gt;
 &lt;ul&gt;
@@ -56,10 +56,10 @@ This track is great for visualizing where different sounds and insturments are c
     
     <item>
       <title>Retro Gaming Mouse</title>
-      <link>http://localhost:1313/posts/retro-mouse/</link>
+      <link>//localhost:1313/posts/retro-mouse/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/retro-mouse/</guid>
+      <guid>//localhost:1313/posts/retro-mouse/</guid>
       <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hi!</p>
 ]]></content:encoded>
@@ -67,26 +67,27 @@ This track is great for visualizing where different sounds and insturments are c
     
     <item>
       <title>Tower PC</title>
-      <link>http://localhost:1313/posts/tower-pc/</link>
+      <link>//localhost:1313/posts/tower-pc/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tower-pc/</guid>
+      <guid>//localhost:1313/posts/tower-pc/</guid>
       <description>&lt;p&gt;Tower PC design log..&lt;/p&gt;
 &lt;p&gt;I got into small form factor PCs as, what felt to me at the time as a natural progression of my love for PC building. I soon realized it adds yet another layer of complexity to the build process. It&amp;rsquo;s also really fun trying to figure out the best way to cable manage in tight spaces, picking the exact right GPU that will acutally fit, and finally acecpting that thermals will almsot always suck.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Tower PC design log..</p>
 <p>I got into small form factor PCs as, what felt to me at the time as a natural progression of my love for PC building. I soon realized it adds yet another layer of complexity to the build process. It&rsquo;s also really fun trying to figure out the best way to cable manage in tight spaces, picking the exact right GPU that will acutally fit, and finally acecpting that thermals will almsot always suck.</p>
 <p>I&rsquo;ve tried a few different cases, from the Cougar to the Louque S1. They&rsquo;re all fine in their own right, but I wanted to tack it a step further an design a case myself.</p>
 <p>
+  <img loading="lazy" src="https://github.com/bonominijl/JoshBonominiBlog/blob/d3a2067930a2728691eab33af65cf382f9264e5c/static/walnut%20tower%20pc%20render.png" alt="walnut-tower-pc-render"  />
 </p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>http://localhost:1313/posts/sample/</link>
+      <link>//localhost:1313/posts/sample/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sample/</guid>
+      <guid>//localhost:1313/posts/sample/</guid>
       <description>Desc Text.</description>
       <content:encoded><![CDATA[<p>Sample Post!</p>
 ]]></content:encoded>

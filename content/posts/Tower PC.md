@@ -10,6 +10,6 @@ I got into small form factor PCs as, what felt to me at the time as a natural pr
 
 I've tried a few different cases, from the Cougar to the Louque S1. They're all fine in their own right, but I wanted to tack it a step further an design a case myself.
 
-![walnut-tower-pc-render](/walnut-tower-pc-render.png "picture")
+![walnut-tower-pc-render](https://github.com/bonominijl/JoshBonominiBlog/blob/d3a2067930a2728691eab33af65cf382f9264e5c/static/walnut%20tower%20pc%20render.png)
 ![scream](/scream.jpg "scream")
 
