@@ -122,10 +122,6 @@ My initial vision for this case is layers of CNC&rsquo;d walnut, held in place w
       <guid>//localhost:1313/posts/sample/</guid>
       <description>Desc Text.</description>
       <content:encoded><![CDATA[<p>Sample Post!</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 ]]></content:encoded>
     </item>
     
